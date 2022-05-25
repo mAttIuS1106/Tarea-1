@@ -18,4 +18,11 @@ Objetivos Específicos
 
 2. Marco Teórico
 
-![](https://github.com/mAttIuS1106/Tarea-1/blob/main/2.PNG)
+![](https://github.com/mAttIuS1106/Tarea-1/blob/main/Marco%20Te%C3%B3rico%201.1.PNG)
+
+![](https://github.com/mAttIuS1106/Tarea-1/blob/main/Marco%20Te%C3%B3rico%201.2.PNG)
+
+![](https://github.com/mAttIuS1106/Tarea-1/blob/main/Marco%20Te%C3%B3rico%201.3.PNG)
+
+![](https://github.com/mAttIuS1106/Tarea-1/blob/main/Marco%20te%C3%B3rico%201.5.PNG)
+
