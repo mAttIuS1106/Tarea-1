@@ -14,7 +14,6 @@ Objetivos Específicos
 
 •	Recopilar la información de los temas descritos anteriormente y esquematizarlos mediante mapas conceptuales, mapas mentales o lluvia de ideas, logrando así resumir la investigación.
 
-•	Explicar a través de un video los tópicos, con sus respectivos ejercicios logrando de tal manera reforzar lo realizado en la Tarea 1.
 
 2. MARCO TEÓRICO
 
@@ -194,5 +193,11 @@ CAPITULO II
 
 5.CONCLUSIONES
 
+En la actualidad el Sistema Internacional es muy importante para cualquier tipo, situación, de medición dentro del cual se ven involucrados diferentes instrumentos para poder realizar estas medidas.
+
+La notación científica nos ha permitido cuantificar la magnitud de los objetos tanto pequeños como grandes, de tal manera que se les puede atribuir un valor.
+
+
 6.BIBILOGRAFÍA
 
+Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
