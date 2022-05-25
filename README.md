@@ -26,3 +26,7 @@ Objetivos Específicos
 
 ![](https://github.com/mAttIuS1106/Tarea-1/blob/main/Marco%20te%C3%B3rico%201.5.PNG)
 
+![](https://github.com/mAttIuS1106/Tarea-1/blob/main/Marco%20te%C3%B3rico%201.6.PNG)
+
+![](https://github.com/mAttIuS1106/Tarea-1/blob/main/Marco%20te%C3%B3rico%201.7.PNG)
+
